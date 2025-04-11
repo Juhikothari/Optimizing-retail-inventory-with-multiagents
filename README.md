@@ -76,14 +76,14 @@ The app will open in your browser at `http://localhost:8501`
 
 ## 📷 Screenshots
 
-_Add screenshots here if available (e.g., dashboard preview, tables, etc.)_
+![Dashboard Overview](screenshots/dashboard.png)
+
 
 ---
 
-## 👥 Authors
+## 👥 Author
 
-- Your Name  
-- Your Team (if applicable)
+- JUHI KOTHARI
 
 ---
 
